@@ -1,0 +1,11 @@
+action_class,head_tilt_down,head_tilt_up,head_rotate,hand_grasp,hand_release,hand_manipulate,hand_open,hand_touch,arm_raise,arm_lower,arm_extend,arm_retract,arm_swing,arm_hold,arm_alternating,arm_lateral,hip_bend,hip_extend,hip_sit,hip_rotate,hip_static_stand,hip_sway,leg_step,leg_kick,leg_squat,leg_lift,leg_static_stand,leg_static_sit,leg_alternating,foot_step,foot_pivot,foot_static,foot_tap,foot_slide,temporal_direction_motion_upward,temporal_direction_motion_downward,temporal_direction_motion_forward,temporal_direction_motion_backward,temporal_direction_motion_diverging,temporal_sequence_seq_hands_first,temporal_sequence_seq_legs_first,temporal_sequence_seq_body_first,temporal_sequence_seq_simultaneous,temporal_sequence_seq_alternating,temporal_sequence_seq_cascading,temporal_dynamics_speed_slow,temporal_dynamics_speed_fast,temporal_dynamics_speed_accelerating,temporal_dynamics_speed_decelerating,temporal_dynamics_rhythm_regular,temporal_dynamics_duration_brief,temporal_dynamics_duration_sustained
+pick_up_with_one_hand,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+pick_up_with_two_hands,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,0,1,0
+drop_trash,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+walk_around,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,1,0,1
+sit_down,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+stand_up,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0
+donning,0,1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,1
+doffing,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,1
+throw,0,1,0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+carry,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1

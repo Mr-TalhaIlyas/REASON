@@ -295,9 +295,4 @@ For questions or issues, please open an issue or contact [your.email@example.com
 **[⬆ back to top](#reason-rule-based-explainable-action-via-symbolic-concepts)**
 
 </div>
-=======
-# REASON
 
-## Uploading soon
-![alt text](https://github.com/Mr-TalhaIlyas/REASON/blob/main/logo.png)
->>>>>>> 117e84430fe8cbe1928d8c36dfe07839c76a232d

@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)]()
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2605.07140v1)
 
 **A Neurosymbolic Framework for Concept-Driven Logical Reasoning in Skeleton-Based Human Action Recognition**
 
